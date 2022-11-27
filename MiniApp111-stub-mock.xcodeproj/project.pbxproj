@@ -1,0 +1,588 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		87AF4E6E2933191C00EA77AA /* MiniApp111_stub_mockApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87AF4E6D2933191C00EA77AA /* MiniApp111_stub_mockApp.swift */; };
+		87AF4E702933191C00EA77AA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87AF4E6F2933191C00EA77AA /* ContentView.swift */; };
+		87AF4E722933191E00EA77AA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 87AF4E712933191E00EA77AA /* Assets.xcassets */; };
+		87AF4E752933191E00EA77AA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 87AF4E742933191E00EA77AA /* Preview Assets.xcassets */; };
+		87AF4E7F2933191E00EA77AA /* MiniApp111_stub_mockTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87AF4E7E2933191E00EA77AA /* MiniApp111_stub_mockTests.swift */; };
+		87AF4E892933191E00EA77AA /* MiniApp111_stub_mockUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87AF4E882933191E00EA77AA /* MiniApp111_stub_mockUITests.swift */; };
+		87AF4E8B2933191E00EA77AA /* MiniApp111_stub_mockUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87AF4E8A2933191E00EA77AA /* MiniApp111_stub_mockUITestsLaunchTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		87AF4E7B2933191E00EA77AA /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 87AF4E622933191C00EA77AA /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 87AF4E692933191C00EA77AA;
+			remoteInfo = "MiniApp111-stub-mock";
+		};
+		87AF4E852933191E00EA77AA /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 87AF4E622933191C00EA77AA /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 87AF4E692933191C00EA77AA;
+			remoteInfo = "MiniApp111-stub-mock";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		87AF4E6A2933191C00EA77AA /* MiniApp111-stub-mock.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "MiniApp111-stub-mock.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		87AF4E6D2933191C00EA77AA /* MiniApp111_stub_mockApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MiniApp111_stub_mockApp.swift; sourceTree = "<group>"; };
+		87AF4E6F2933191C00EA77AA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		87AF4E712933191E00EA77AA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		87AF4E742933191E00EA77AA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		87AF4E7A2933191E00EA77AA /* MiniApp111-stub-mockTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "MiniApp111-stub-mockTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		87AF4E7E2933191E00EA77AA /* MiniApp111_stub_mockTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MiniApp111_stub_mockTests.swift; sourceTree = "<group>"; };
+		87AF4E842933191E00EA77AA /* MiniApp111-stub-mockUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "MiniApp111-stub-mockUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		87AF4E882933191E00EA77AA /* MiniApp111_stub_mockUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MiniApp111_stub_mockUITests.swift; sourceTree = "<group>"; };
+		87AF4E8A2933191E00EA77AA /* MiniApp111_stub_mockUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MiniApp111_stub_mockUITestsLaunchTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		87AF4E672933191C00EA77AA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		87AF4E772933191E00EA77AA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		87AF4E812933191E00EA77AA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		87AF4E612933191C00EA77AA = {
+			isa = PBXGroup;
+			children = (
+				87AF4E6C2933191C00EA77AA /* MiniApp111-stub-mock */,
+				87AF4E7D2933191E00EA77AA /* MiniApp111-stub-mockTests */,
+				87AF4E872933191E00EA77AA /* MiniApp111-stub-mockUITests */,
+				87AF4E6B2933191C00EA77AA /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		87AF4E6B2933191C00EA77AA /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				87AF4E6A2933191C00EA77AA /* MiniApp111-stub-mock.app */,
+				87AF4E7A2933191E00EA77AA /* MiniApp111-stub-mockTests.xctest */,
+				87AF4E842933191E00EA77AA /* MiniApp111-stub-mockUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		87AF4E6C2933191C00EA77AA /* MiniApp111-stub-mock */ = {
+			isa = PBXGroup;
+			children = (
+				87AF4E6D2933191C00EA77AA /* MiniApp111_stub_mockApp.swift */,
+				87AF4E6F2933191C00EA77AA /* ContentView.swift */,
+				87AF4E712933191E00EA77AA /* Assets.xcassets */,
+				87AF4E732933191E00EA77AA /* Preview Content */,
+			);
+			path = "MiniApp111-stub-mock";
+			sourceTree = "<group>";
+		};
+		87AF4E732933191E00EA77AA /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				87AF4E742933191E00EA77AA /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		87AF4E7D2933191E00EA77AA /* MiniApp111-stub-mockTests */ = {
+			isa = PBXGroup;
+			children = (
+				87AF4E7E2933191E00EA77AA /* MiniApp111_stub_mockTests.swift */,
+			);
+			path = "MiniApp111-stub-mockTests";
+			sourceTree = "<group>";
+		};
+		87AF4E872933191E00EA77AA /* MiniApp111-stub-mockUITests */ = {
+			isa = PBXGroup;
+			children = (
+				87AF4E882933191E00EA77AA /* MiniApp111_stub_mockUITests.swift */,
+				87AF4E8A2933191E00EA77AA /* MiniApp111_stub_mockUITestsLaunchTests.swift */,
+			);
+			path = "MiniApp111-stub-mockUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		87AF4E692933191C00EA77AA /* MiniApp111-stub-mock */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 87AF4E8E2933191E00EA77AA /* Build configuration list for PBXNativeTarget "MiniApp111-stub-mock" */;
+			buildPhases = (
+				87AF4E662933191C00EA77AA /* Sources */,
+				87AF4E672933191C00EA77AA /* Frameworks */,
+				87AF4E682933191C00EA77AA /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "MiniApp111-stub-mock";
+			productName = "MiniApp111-stub-mock";
+			productReference = 87AF4E6A2933191C00EA77AA /* MiniApp111-stub-mock.app */;
+			productType = "com.apple.product-type.application";
+		};
+		87AF4E792933191E00EA77AA /* MiniApp111-stub-mockTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 87AF4E912933191E00EA77AA /* Build configuration list for PBXNativeTarget "MiniApp111-stub-mockTests" */;
+			buildPhases = (
+				87AF4E762933191E00EA77AA /* Sources */,
+				87AF4E772933191E00EA77AA /* Frameworks */,
+				87AF4E782933191E00EA77AA /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				87AF4E7C2933191E00EA77AA /* PBXTargetDependency */,
+			);
+			name = "MiniApp111-stub-mockTests";
+			productName = "MiniApp111-stub-mockTests";
+			productReference = 87AF4E7A2933191E00EA77AA /* MiniApp111-stub-mockTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		87AF4E832933191E00EA77AA /* MiniApp111-stub-mockUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 87AF4E942933191E00EA77AA /* Build configuration list for PBXNativeTarget "MiniApp111-stub-mockUITests" */;
+			buildPhases = (
+				87AF4E802933191E00EA77AA /* Sources */,
+				87AF4E812933191E00EA77AA /* Frameworks */,
+				87AF4E822933191E00EA77AA /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				87AF4E862933191E00EA77AA /* PBXTargetDependency */,
+			);
+			name = "MiniApp111-stub-mockUITests";
+			productName = "MiniApp111-stub-mockUITests";
+			productReference = 87AF4E842933191E00EA77AA /* MiniApp111-stub-mockUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		87AF4E622933191C00EA77AA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1410;
+				LastUpgradeCheck = 1410;
+				TargetAttributes = {
+					87AF4E692933191C00EA77AA = {
+						CreatedOnToolsVersion = 14.1;
+					};
+					87AF4E792933191E00EA77AA = {
+						CreatedOnToolsVersion = 14.1;
+						TestTargetID = 87AF4E692933191C00EA77AA;
+					};
+					87AF4E832933191E00EA77AA = {
+						CreatedOnToolsVersion = 14.1;
+						TestTargetID = 87AF4E692933191C00EA77AA;
+					};
+				};
+			};
+			buildConfigurationList = 87AF4E652933191C00EA77AA /* Build configuration list for PBXProject "MiniApp111-stub-mock" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 87AF4E612933191C00EA77AA;
+			productRefGroup = 87AF4E6B2933191C00EA77AA /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				87AF4E692933191C00EA77AA /* MiniApp111-stub-mock */,
+				87AF4E792933191E00EA77AA /* MiniApp111-stub-mockTests */,
+				87AF4E832933191E00EA77AA /* MiniApp111-stub-mockUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		87AF4E682933191C00EA77AA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				87AF4E752933191E00EA77AA /* Preview Assets.xcassets in Resources */,
+				87AF4E722933191E00EA77AA /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		87AF4E782933191E00EA77AA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		87AF4E822933191E00EA77AA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		87AF4E662933191C00EA77AA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				87AF4E702933191C00EA77AA /* ContentView.swift in Sources */,
+				87AF4E6E2933191C00EA77AA /* MiniApp111_stub_mockApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		87AF4E762933191E00EA77AA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				87AF4E7F2933191E00EA77AA /* MiniApp111_stub_mockTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		87AF4E802933191E00EA77AA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				87AF4E892933191E00EA77AA /* MiniApp111_stub_mockUITests.swift in Sources */,
+				87AF4E8B2933191E00EA77AA /* MiniApp111_stub_mockUITestsLaunchTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		87AF4E7C2933191E00EA77AA /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 87AF4E692933191C00EA77AA /* MiniApp111-stub-mock */;
+			targetProxy = 87AF4E7B2933191E00EA77AA /* PBXContainerItemProxy */;
+		};
+		87AF4E862933191E00EA77AA /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 87AF4E692933191C00EA77AA /* MiniApp111-stub-mock */;
+			targetProxy = 87AF4E852933191E00EA77AA /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		87AF4E8C2933191E00EA77AA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		87AF4E8D2933191E00EA77AA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		87AF4E8F2933191E00EA77AA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"MiniApp111-stub-mock/Preview Content\"";
+				DEVELOPMENT_TEAM = 558ZJSQN67;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "org.tetoblog.MiniApp111-stub-mock";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		87AF4E902933191E00EA77AA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"MiniApp111-stub-mock/Preview Content\"";
+				DEVELOPMENT_TEAM = 558ZJSQN67;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "org.tetoblog.MiniApp111-stub-mock";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		87AF4E922933191E00EA77AA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 558ZJSQN67;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "org.tetoblog.MiniApp111-stub-mockTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MiniApp111-stub-mock.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/MiniApp111-stub-mock";
+			};
+			name = Debug;
+		};
+		87AF4E932933191E00EA77AA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 558ZJSQN67;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "org.tetoblog.MiniApp111-stub-mockTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MiniApp111-stub-mock.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/MiniApp111-stub-mock";
+			};
+			name = Release;
+		};
+		87AF4E952933191E00EA77AA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 558ZJSQN67;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "org.tetoblog.MiniApp111-stub-mockUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "MiniApp111-stub-mock";
+			};
+			name = Debug;
+		};
+		87AF4E962933191E00EA77AA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 558ZJSQN67;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "org.tetoblog.MiniApp111-stub-mockUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "MiniApp111-stub-mock";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		87AF4E652933191C00EA77AA /* Build configuration list for PBXProject "MiniApp111-stub-mock" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				87AF4E8C2933191E00EA77AA /* Debug */,
+				87AF4E8D2933191E00EA77AA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		87AF4E8E2933191E00EA77AA /* Build configuration list for PBXNativeTarget "MiniApp111-stub-mock" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				87AF4E8F2933191E00EA77AA /* Debug */,
+				87AF4E902933191E00EA77AA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		87AF4E912933191E00EA77AA /* Build configuration list for PBXNativeTarget "MiniApp111-stub-mockTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				87AF4E922933191E00EA77AA /* Debug */,
+				87AF4E932933191E00EA77AA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		87AF4E942933191E00EA77AA /* Build configuration list for PBXNativeTarget "MiniApp111-stub-mockUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				87AF4E952933191E00EA77AA /* Debug */,
+				87AF4E962933191E00EA77AA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 87AF4E622933191C00EA77AA /* Project object */;
+}
